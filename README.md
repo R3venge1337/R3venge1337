@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam Zimny</h1>
 <h3 align="center">A passionate Java Developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r3venge1337&label=Profile%20views&color=0e75b6&style=flat" alt="r3venge1337" /> </p>
-
 - 🔭 I’m currently working on [QuizApp](https://github.com/R3venge1337/QuizApp)
 
 - 🌱 I’m currently learning **GraphQL, MongoDb**
